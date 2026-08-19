@@ -6,13 +6,13 @@ export default function HomePage() {
   return (
     <>
       <header>
-        <h1>Home</h1>
+        <h1>Home m*ther f*cking page</h1>
       </header>
       <main>
-        <p>Welcome to the home page...</p>
+        <p>Welcome to the m*ther f*cking home page...</p>
 
         <article>
-          <h2>Displaying images in React</h2>
+          <h2>Displaying images in React baby!</h2>
 
           <h3>1. Import from src/assets</h3>
           <p>
